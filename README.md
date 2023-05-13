@@ -10,10 +10,11 @@
 - Code Editor (like Visula Studio Code/ notepad)
 
 ## application shots
-![image1](https://github.com/pavithra-deepika/cafe-menu/blob/main/image/image.png)
+![image1](https://github.com/pavithra-deepika/css-color-markers/blob/main/iamge/image.png)
 
 ## Learnt
- -
+ - 
+ 
 
 ## Deploy on Vercel
 https://cafe-menu-three.vercel.app/
